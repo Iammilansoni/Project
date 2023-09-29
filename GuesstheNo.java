@@ -1,4 +1,4 @@
-package com.javacodepoint.game;
+package com.milan.game;
  
 import java.util.Random;
 import java.util.Scanner;
