@@ -43,7 +43,6 @@ Clone this repository to your local machine using Git:
 
 bash
 Copy code
-git clone https://github.com/your-username/java-hangman-guess-the-number.git
 Navigate to the project directory:
 
 bash
